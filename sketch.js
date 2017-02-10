@@ -6,7 +6,6 @@ http://codeliberation.org
 Sketch by: Adelle lin & Saskia Freeke
 */
 
-
 // fftSize must be at least 32, and a power of 2 (32,64,128,256 etc.)
 var fftSize = 64 // setting buffer size
 var mic;
