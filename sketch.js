@@ -1,9 +1,8 @@
-// based on p5.js Gibber library by
-
 /*
 Code Liberation MoMa Sunday, February 12
 http://codeliberation.org
 Sketch by: Adelle lin & Saskia Freeke
+based on p5.js Gibber library by Charlie Roberts
 */
 
 // fftSize must be at least 32, and a power of 2 (32,64,128,256 etc.)
