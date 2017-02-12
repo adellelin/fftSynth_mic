@@ -28,6 +28,7 @@ function setup() {
   // wave3.Frequency.seq( [220,440,880,1760,], 1/8 )
   //wave3.amp = .25
 
+  /* x's represent kick drum hits, o's represent snares, and - represent hihats. */
   //drums = EDrums('x*')
   //drums = EDrums('x*--')
   // drums = EDrums('x*ox*xo-')
